@@ -1,5 +1,5 @@
 ## Introduction
--Hi, I'm Tofunmi, a beginner in data analytics and a passionate fashion content writer. My journey on GitHub is two-fold: I'm here to learn and collaborate on data analytics projects while also showcasing my writing skills in the realm of fashion and style.
+Hello, I'm Tofunmi, a beginner in data analytics and a passionate fashion content writer. My journey on GitHub is two-fold: I'm here to learn and collaborate on data analytics projects while also showcasing my writing skills in the realm of fashion and style.
 
 ## Data Analytics Interests
 - Learning Data Analytics: I'm currently in the early stages of my data analytics journey and eager to explore this exciting field.
@@ -17,7 +17,7 @@
 You can reach out to me via email at tofunmiibitoye01@gmail.com.
 
 ## Get in Touch
-Feel free to connect with me on other platforms:
+Feel free to connect with me on this platform:
 - [LinkedIn] (https://www.linkedin.com/in/tofunmi-content-writer--1972ds)
 
 
